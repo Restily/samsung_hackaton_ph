@@ -1,0 +1,30 @@
+{"objects": [
+  {
+    "device_id": 2,
+    "last_value": null,
+    "active": true,
+    "device_name": "device_27",
+    "name": "Монумент Белая",
+    "latitude": 54.712464,
+    "longitude": 55.940887,
+    "person_data": {
+      "name": "Алмаз",
+      "surname": "Казбулатов",
+      "person_id": 2
+    }
+  },
+  {
+    "device_id": 1,
+    "last_value": 4.9,
+    "active": true,
+    "device_name": "device_1",
+    "name": "Сипайлово Уфимка",
+    "latitude": 54.783652,
+    "longitude": 56.078133,
+    "person_data": {
+      "name": "Тимур",
+      "surname": "Давлеткулов",
+      "person_id": 1
+    }
+  }
+]}
